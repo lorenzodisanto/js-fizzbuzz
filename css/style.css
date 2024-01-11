@@ -12,5 +12,23 @@
 .cards {
   width: 100px;
   height: 100px;
+  line-height: 60px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.cards-base {
   background-color: rgba(8, 97, 130, 0.757);
+}
+
+.cards-fizz {
+  background-color: rgb(18, 160, 18);
+}
+
+.cards-buzz {
+  background-color: rgb(255, 230, 0);
+}
+
+.cards-fizzbuzz {
+  background-color: rgb(195, 53, 28);
 }
