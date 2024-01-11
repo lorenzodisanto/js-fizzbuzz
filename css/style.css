@@ -1,0 +1,16 @@
+#body {
+  background-color: rgba(0, 153, 255, 0.637);
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cards {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(8, 97, 130, 0.757);
+}
